@@ -32,7 +32,7 @@ Provides high-level KPIs:
 - Total Orders
 - Total Customers
 
-![Executive Overview](images/executive_overview.png)
+![Executive Overview](images/01_executive_overview.png)
 
 ---
 
@@ -45,7 +45,7 @@ Includes:
 - Revenue Distribution
 - Product Performance
 
-![Sales Analysis](images/sales_product_analysis.png)
+![Sales Analysis](images/02_sales_product_analysis.png)
 
 ---
 
@@ -57,7 +57,7 @@ Analyzes:
 - Customer Segments
 - Sales vs Profit
 
-![Customer Analysis](images/customer_analysis.png)
+![Customer Analysis](images/03_customer_analysis.png)
 
 ---
 
@@ -70,7 +70,7 @@ Focuses on:
 - High-Profit Products
 - Loss-Making Products
 
-![Profitability Analysis](images/profitability_analysis.png)
+![Profitability Analysis](images/04_profitability_analysis.png)
 
 ---
 
